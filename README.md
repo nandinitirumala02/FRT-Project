@@ -3,7 +3,7 @@
 
 This is a web based application developed for promoting a beauty parlour in India
 
-### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
 
 **Project Link** - https://gray-ocean-0ceb5b600.3.azurestaticapps.net
